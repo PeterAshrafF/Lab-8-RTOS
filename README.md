@@ -6,7 +6,7 @@ The video showcases simulation in action for the task
 steps to recreate the project:
 1. Make a project on platformio choosing suitable board and framework, then choose the directory if not default
 2. write software code
-3. build the code ( you will find the HEX file generally under .pio/build/<environment_name>/firmware.hex
+3. build the code ( you will find the HEX file generally under ".pio/build/<environment_name>/firmware.hex"
 4. make a project on proteus and connect as suggested in the video
 5. start simulation and tinker around
 
