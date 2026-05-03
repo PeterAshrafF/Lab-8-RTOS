@@ -9,3 +9,6 @@ steps to recreate the project:
 3. build the code ( you will find the HEX file generally under .pio/build/<environment_name>/firmware.hex
 4. make a project on proteus and connect as suggested in the video
 5. start simulation and tinker around
+
+this is the link for the video:
+<u>https://drive.google.com/file/d/1qGHv39rk-UQORkSrLItay1wa8c_KHuQ8/view?usp=sharing</u>
