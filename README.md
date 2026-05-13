@@ -11,6 +11,6 @@ steps to recreate the project:
 5. start simulation and tinker around
 
 this is the link for the video:
-<u>https://drive.google.com/file/d/1qGHv39rk-UQORkSrLItay1wa8c_KHuQ8/view?usp=sharing</u>
+https://drive.google.com/file/d/1djCMPJeBOxcIx8loIzUhJPMIkfEws3Jt/view?usp=sharing
 
 <img width="1679" height="945" alt="image" src="https://github.com/user-attachments/assets/8538ac21-ac88-41b7-8bf4-e65e80cf8b3b" />
